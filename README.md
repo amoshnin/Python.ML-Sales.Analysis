@@ -38,4 +38,4 @@ To answer these questions I walk through many different pandas & matplotlib meth
 ## Author and Purpose
 
 - Artem Moshnin, 2022
-- Made for examination of Tinkoff Bank Machine Learning Course
+- Made for examination of Tinkoff Bank - Machine Learning Course
